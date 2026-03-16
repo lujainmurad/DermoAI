@@ -1,0 +1,8 @@
+backend/ml/models/*.pt
+backend/ml/models/*.joblib
+backend/__pycache__/
+backend/**/__pycache__/
+**/*.pyc
+backend/.env
+backend/dermoscopy.db
+backend/test_output/
